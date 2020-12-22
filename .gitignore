@@ -1,0 +1,7 @@
+# LR_5
+*.a
+!lib.a
+/TODO
+build/
+doc/*.txt
+doc/**/*.pdf
